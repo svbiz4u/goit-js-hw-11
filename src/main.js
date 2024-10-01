@@ -12,7 +12,7 @@ import {
   showMessage,
   showLoader,
   hideLoader,
-} from './js/render-function.js';
+} from './js/render-functions.js';
 
 const form = document.querySelector('.form');
 const queryInput = document.querySelector('input[name="query"]');
