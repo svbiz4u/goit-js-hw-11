@@ -1,3 +1,5 @@
+//test//
+
 export const BASE_URL = 'https://pixabay.com/api/';
 export const API_KEY = '46275525-feefee5c0dcabc611e373a7fd';
 
