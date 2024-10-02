@@ -1,4 +1,3 @@
-//test//
 // Описаний у документації
 import iziToast from "izitoast";
 // Додатковий імпорт стилів
